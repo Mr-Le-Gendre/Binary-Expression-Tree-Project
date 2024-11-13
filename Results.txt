@@ -1,0 +1,12 @@
+Postfix: 35 27 + 3 *
+Result: 186
+
+Postfix: 23 30 15 * /
+Result: 0.0511111
+
+Postfix: 34 24 12 7 / * + 23 -
+Result: 52.1429
+
+Postfix: 3 7 + 14 *
+Result: 140
+
